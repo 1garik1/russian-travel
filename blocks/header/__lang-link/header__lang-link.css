@@ -10,9 +10,6 @@
   opacity: 0.8;
   transition: opacity 0.5s ease;
 }
-@media screen and (max-width: 1279px) {
-  
-}
 @media screen and (max-width: 767px) {
   .header__lang-link {
     font-size: 18px;
